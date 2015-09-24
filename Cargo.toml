@@ -1,0 +1,6 @@
+[package]
+name = "pdf"
+version = "0.1.0"
+authors = ["Simon Sapin <simon.sapin@exyr.org>"]
+license = "MIT"
+description = "Generating PDF files in pure Rust."
